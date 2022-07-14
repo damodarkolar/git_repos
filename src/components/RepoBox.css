@@ -1,0 +1,11 @@
+#container{
+    background-color: aqua;
+}
+#container > div{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
